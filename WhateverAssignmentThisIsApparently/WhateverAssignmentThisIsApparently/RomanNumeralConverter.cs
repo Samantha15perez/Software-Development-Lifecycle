@@ -84,10 +84,10 @@ namespace WhateverAssignmentThisIsApparently
                 int inputValue = roman;
                 string OutputValue = "";
 
-                if (inputValue / 1000 >= 1)
+                while (inputValue / 1000 != 0)
                 {
                     inputValue = (inputValue - 1000);
-                    OutputValue = "M";
+                    OutputValue = (OutputValue + "M");
                 }
                 while (inputValue / 900 != 0)
                 {
