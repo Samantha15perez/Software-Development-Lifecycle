@@ -49,5 +49,10 @@ namespace WhateverAssignmentThisIsApparently
                 MessageBox.Show("Something went wrong");
             }
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
