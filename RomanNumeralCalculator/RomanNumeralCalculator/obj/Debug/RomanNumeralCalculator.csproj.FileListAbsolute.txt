@@ -7,3 +7,12 @@ c:\users\cyberadmin\documents\visual studio 2017\Projects\RomanNumeralCalculator
 c:\users\cyberadmin\documents\visual studio 2017\Projects\RomanNumeralCalculator\RomanNumeralCalculator\bin\Debug\RomanNumeralCalculator.pdb
 c:\users\cyberadmin\documents\visual studio 2017\Projects\RomanNumeralCalculator\RomanNumeralCalculator\obj\Debug\RomanNumeralCalculator.exe
 c:\users\cyberadmin\documents\visual studio 2017\Projects\RomanNumeralCalculator\RomanNumeralCalculator\obj\Debug\RomanNumeralCalculator.pdb
+C:\Users\Cyberadmin\Desktop\Software-Development-Lifecycle\RomanNumeralCalculator\RomanNumeralCalculator\bin\Debug\RomanNumeralCalculator.exe
+C:\Users\Cyberadmin\Desktop\Software-Development-Lifecycle\RomanNumeralCalculator\RomanNumeralCalculator\bin\Debug\RomanNumeralCalculator.pdb
+C:\Users\Cyberadmin\Desktop\Software-Development-Lifecycle\RomanNumeralCalculator\RomanNumeralCalculator\obj\Debug\RomanNumeralCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Cyberadmin\Desktop\Software-Development-Lifecycle\RomanNumeralCalculator\RomanNumeralCalculator\obj\Debug\RomanNumeralCalculator.Form1.resources
+C:\Users\Cyberadmin\Desktop\Software-Development-Lifecycle\RomanNumeralCalculator\RomanNumeralCalculator\obj\Debug\RomanNumeralCalculator.Properties.Resources.resources
+C:\Users\Cyberadmin\Desktop\Software-Development-Lifecycle\RomanNumeralCalculator\RomanNumeralCalculator\obj\Debug\RomanNumeralCalculator.csproj.GenerateResource.Cache
+C:\Users\Cyberadmin\Desktop\Software-Development-Lifecycle\RomanNumeralCalculator\RomanNumeralCalculator\obj\Debug\RomanNumeralCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Cyberadmin\Desktop\Software-Development-Lifecycle\RomanNumeralCalculator\RomanNumeralCalculator\obj\Debug\RomanNumeralCalculator.exe
+C:\Users\Cyberadmin\Desktop\Software-Development-Lifecycle\RomanNumeralCalculator\RomanNumeralCalculator\obj\Debug\RomanNumeralCalculator.pdb
